@@ -54,4 +54,8 @@ Then go to `http://localhost:8000` from your browser and see the app.
 
 ## Read more
 
+[click here if you want to read more about the steps to make this app ](https://aalhommada.medium.com/laravel-tailwindcss-blade-crud-app-b8748f7d8bcd)
+
+## see more projects :
+
 -   [aalhommada](https://github.com/aalhommada)
