@@ -1,6 +1,8 @@
 # Laravel Crud App
 
 A simple crud App with Laravel 8, tailwind, blade.
+##
+[click here to go to the web app](https://still-ravine-18094.herokuapp.com/)
 
 ## Installation
 
