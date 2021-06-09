@@ -34,7 +34,7 @@ Then create a environment file using this command-
 cp .env.example .env
 ```
 
-Then edit `.env` file with appropriate credential for your database server. Just edit these two parameter(`DB_USERNAME`, `DB_PASSWORD`).
+Then edit `.env` file with appropriate credential for your database server. Just edit these two parameter(`DB_CONNECTION`,`DB_DATABASE`,`DB_USERNAME`, `DB_PASSWORD`).
 
 Then create a database named `laravel_crud` and then do a database migration using this command-
 
